@@ -1,5 +1,5 @@
 <h3 align="left">I'm Go and Python backend developer</h3>
-<h2> DGTU'30 (winemaking)</h2>
+DGTU'30 (winemaking)
 
 
 <h3 align="left">Languages and Tools:</h3>
